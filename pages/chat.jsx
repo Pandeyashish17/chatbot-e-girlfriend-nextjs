@@ -76,7 +76,7 @@ const Home = () => {
             <div className="flex flex-col leading-tight">
               <div className="text-2xl mt-1 flex items-center">
                 <span className="text-gray-700 mr-3">
-                  {username ? username : "Ashish"}
+                  {crushname ? crushname : "Emma"}
                 </span>
               </div>
             </div>
